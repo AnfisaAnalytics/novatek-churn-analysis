@@ -1,5 +1,9 @@
 # 📉 Customer Churn Analysis — NovaTel Telecom
 
+
+📓 View the full analysis notebook → [telco_churn_analysis](https://github.com/AnfisaAnalytics/novatek-churn-analysis/blob/33743d4f5b05fa348d127ae96d7360095d2ca0a6/telco_churn_analysis.ipynb)
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
